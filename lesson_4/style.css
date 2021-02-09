@@ -1,0 +1,26 @@
+body{
+	background-color:#c8a2c8 
+}
+
+h2  {
+	text-align: center;
+	color: #DC143C;
+}
+
+h1 {
+	text-align: center;
+ text-decoration: underline;
+ border: 2px solid ;
+ }
+
+.bran{
+ font-weight: 900;
+}
+
+.keit{
+	font-style: oblique;
+}
+
+.dein{
+	text-decoration: underline; ;
+}
