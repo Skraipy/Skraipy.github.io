@@ -9,4 +9,4 @@
 
 [урок 14](https://skraipy.github.io/lesson_14/src/index) шапка
 
-[урок 15] (https://skraipy.github.io/lesson_15/index.html) шрифты
+[урок 15](https://skraipy.github.io/lesson_15/index.html) шрифты
