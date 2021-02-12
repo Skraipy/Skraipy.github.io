@@ -8,3 +8,5 @@
 [урок 13](https://github.com/Skraipy/Skraipy.github.io/tree/main/lesson_13) perfect pixel
 
 [урок 14](https://skraipy.github.io/lesson_14/src/index) шапка
+
+[урок 15] (https://skraipy.github.io/lesson_15/index.html) шрифты
