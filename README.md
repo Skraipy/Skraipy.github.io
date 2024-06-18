@@ -14,3 +14,4 @@
 [урок 14](https://skraipy.github.io/lesson_16/src/index.html) Подключение шрифтов. Верстка первого экрана
 
 [урок 15](https://skraipy.github.io/15/index.html) Псевдоклассы и псевдоэлементы
+[урок 17(https://Skraipy.github.io/lesson-17/src/index.html) адаптивный сайт
