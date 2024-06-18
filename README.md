@@ -15,4 +15,4 @@
 
 [урок 15](https://skraipy.github.io/15/index.html) Псевдоклассы и псевдоэлементы
 
-[урок 17(https://Skraipy.github.io/lesson-17/src/index.html) адаптивный сайт
+[урок 17](https://Skraipy.github.io/lesson-17/src/index.html) адаптивный сайт
